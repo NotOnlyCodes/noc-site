@@ -1,11 +1,8 @@
 # NotOnlyCodes Website
 
-This website uses several other projects:
+Made with:
 
- - [Semantic-UI](https://github.com/Semantic-Org/Semantic-UI)
- - [jQuery](https://github.com/jquery/jquery)
- - [Vue.js](https://github.com/vuejs/vue)
- - [Vue.js Router](https://github.com/vuejs/vue-router)
- - [Axios](https://github.com/mzabriskie/axios)
-
- 
+ - [Flexbox](https://www.w3.org/TR/css-flexbox-1/)
+ - [Lato font](http://www.latofonts.com/)
+ - [Fontello](https://github.com/fontello/fontello)
+ - [ColorZilla Gradient Generator](http://www.colorzilla.com/gradient-editor/)
