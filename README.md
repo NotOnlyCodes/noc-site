@@ -1,8 +1,23 @@
-# NotOnlyCodes Website
+# noc
 
-Made with:
+> Nuxt.js project
 
- - [Flexbox](https://www.w3.org/TR/css-flexbox-1/)
- - [Lato font](http://www.latofonts.com/)
- - [Fontello](https://github.com/fontello/fontello)
- - [ColorZilla Gradient Generator](http://www.colorzilla.com/gradient-editor/)
+## Build Setup
+
+``` bash
+# install dependencies
+$ npm install # Or yarn install
+
+# serve with hot reload at localhost:3000
+$ npm run dev
+
+# build for production and launch server
+$ npm run build
+$ npm start
+
+# generate static project
+$ npm run generate
+```
+
+For detailed explanation on how things work, checkout the [Nuxt.js docs](https://github.com/nuxt/nuxt.js).
+
